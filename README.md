@@ -1,9 +1,7 @@
 # hackbi-vi-finch-robots
 
 ## Get Started:
-Some king of Java IDE, bluebird connector program (it would be easier to use the desktops in 313
-because I know that they already have all of the software installed and I do not know if there is
-some kind of license that needs to be activated)
+Some king of Java IDE, bluebird connector program
 
 ## Uses:
 Teaches problem solving
